@@ -1,6 +1,6 @@
 // MonBudget CI — Service Worker
 // Met à jour la version à chaque nouvelle mise en ligne
-const V = 'mbc-v4';
+const V = 'mbc-v6';
 const SHELL = ['./','./index.html'];
 
 // Installation : mise en cache de l'app
